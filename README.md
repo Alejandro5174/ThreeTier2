@@ -41,8 +41,8 @@ Agregar productos a la factura
 Cálculo automático de totales
 Editar facturas
 Eliminar facturas
-🗄️ Base de Datos
 
+🗄️ Base de Datos
 El sistema utiliza SQL Server con las siguientes tablas principales:
 
 TBLCLIENTES
@@ -52,11 +52,13 @@ TBLDETALLE_FACTURA
 TBLEMPLEADO
 TBLESTADO_FACTURA
 
+
 🛠️ Tecnologías Utilizadas
 C# (.NET / Windows Forms)
 SQL Server
 ADO.NET
 Git y GitHub
+
 
 👨‍💻 Autor
 Alejandro Montaño
