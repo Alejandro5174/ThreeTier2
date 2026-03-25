@@ -20,17 +20,21 @@ Procesamiento de datos y validaciones
 Capa de Acceso a Datos (DAL)
 Manejo de la conexión a la base de datos
 Ejecución de consultas SQL
+
 ⚙️ Funcionalidades
+
 👤 Clientes
 Crear clientes
 Editar clientes
 Eliminar clientes
 Buscar clientes
+
 📦 Productos
 Crear productos
 Editar productos
 Eliminar productos
 Consultar productos
+
 🧾 Facturación
 Crear facturas
 Agregar productos a la factura
@@ -47,11 +51,13 @@ TBLFACTURA
 TBLDETALLE_FACTURA
 TBLEMPLEADO
 TBLESTADO_FACTURA
+
 🛠️ Tecnologías Utilizadas
 C# (.NET / Windows Forms)
 SQL Server
 ADO.NET
 Git y GitHub
+
 👨‍💻 Autor
 Alejandro Montaño
 Docente: Walter Arboleda
