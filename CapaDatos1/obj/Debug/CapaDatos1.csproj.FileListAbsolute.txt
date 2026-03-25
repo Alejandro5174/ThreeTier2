@@ -1,0 +1,12 @@
+C:\Mis Proyectos Form\CapaDatos1\bin\Debug\CapaDatos1.dll
+C:\Mis Proyectos Form\CapaDatos1\bin\Debug\CapaDatos1.pdb
+C:\Mis Proyectos Form\CapaDatos1\obj\Debug\CapaDatos1.csproj.AssemblyReference.cache
+C:\Mis Proyectos Form\CapaDatos1\obj\Debug\CapaDatos1.csproj.CoreCompileInputs.cache
+C:\Mis Proyectos Form\CapaDatos1\obj\Debug\CapaDatos1.dll
+C:\Mis Proyectos Form\CapaDatos1\obj\Debug\CapaDatos1.pdb
+C:\Mis Proyectos Form\proyectotrescapas2\CapaDatos1\bin\Debug\CapaDatos1.dll
+C:\Mis Proyectos Form\proyectotrescapas2\CapaDatos1\bin\Debug\CapaDatos1.pdb
+C:\Mis Proyectos Form\proyectotrescapas2\CapaDatos1\obj\Debug\CapaDatos1.csproj.AssemblyReference.cache
+C:\Mis Proyectos Form\proyectotrescapas2\CapaDatos1\obj\Debug\CapaDatos1.csproj.CoreCompileInputs.cache
+C:\Mis Proyectos Form\proyectotrescapas2\CapaDatos1\obj\Debug\CapaDatos1.dll
+C:\Mis Proyectos Form\proyectotrescapas2\CapaDatos1\obj\Debug\CapaDatos1.pdb
