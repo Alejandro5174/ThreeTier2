@@ -74,8 +74,7 @@ El sistema utiliza SQL Server con las siguientes tablas principales:
 
 * C# (.NET / Windows Forms)
 * SQL Server
-* ADO.NET
-* Git y GitHub
+* GitHub
 
 ---
 
